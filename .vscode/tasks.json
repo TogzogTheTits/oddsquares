@@ -10,8 +10,6 @@
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "-static-libgcc",
-                "-static-libstdc++",
                 "-static"
             ],
             "options": {
