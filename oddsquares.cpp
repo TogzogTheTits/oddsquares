@@ -47,5 +47,5 @@ int main(int argc, char *argv[])
         plus++;
     }
 
-    cin.get();
+    getchar();
 }
